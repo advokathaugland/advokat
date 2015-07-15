@@ -376,6 +376,11 @@ picture {
 .outer-kontakt {
   background: #F9F9F9;
   width: 100%; }
+  .outer-kontakt h2 {
+    font-size: 2em;
+    color: #787878;
+    margin-bottom: 0;
+    font-weight: 200; }
 
 .one-third-row {
   float: left;
