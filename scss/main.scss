@@ -131,6 +131,7 @@ padding-bottom: 2.7em;
     font-size: 3em;
     font-weight: 300;
     color: #505050;
+    margin-bottom: 0.1em;
   }
   h2 {
     font-size: 2em;
@@ -157,6 +158,7 @@ h3 {
   background-position: top;
   background-size: cover;
   background-color: beige;
+  
   left: 0;
   width: 100%;
   min-height: 600px;
@@ -207,4 +209,9 @@ h4 {
     line-height: 1;
     border-bottom: 1px solid transparentize($base-font-color, 0.8);
   }
+}
+
+.advokatforeningen {
+  opacity: 0.8;
+  height: 35px;
 }

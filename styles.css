@@ -494,7 +494,8 @@ picture {
   .top h1 {
     font-size: 3em;
     font-weight: 300;
-    color: #505050; }
+    color: #505050;
+    margin-bottom: 0.1em; }
   .top h2 {
     font-size: 2em;
     color: #787878;
@@ -556,5 +557,9 @@ h4 {
 .top h2 {
   line-height: 1;
   border-bottom: 1px solid rgba(51, 51, 51, 0.2); }
+
+.advokatforeningen {
+  opacity: 0.8;
+  height: 35px; }
 
 /*# sourceMappingURL=styles.css.map */
